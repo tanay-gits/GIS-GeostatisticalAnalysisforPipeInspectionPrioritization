@@ -6,3 +6,6 @@ A case study of Watertown, Connecticut
 
 ## ArcGIS Dashboard
 ### URL: https://carnegiemellon.maps.arcgis.com/apps/dashboards/998dd44311e04a288650756ac2fc762b
+
+## Project Report
+### URL: https://github.com/tanay-gits/GIS-GeostatisticalAnalysisforPipeInspectionPrioritization/blob/3810d52c500537fec2676e6322ecfe81138db2e0/GISReport_KarveKulkarni.pdf
